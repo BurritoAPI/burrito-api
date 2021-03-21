@@ -664,6 +664,426 @@
 			"address": "10295 WV-152, Wayne, WV 25570",
 			"latitude": "38.227322000",
 			"longitude": "-82.442464000"
+		},
+		{
+			"name": "Alexandria VA Medical Center",
+			"phone": "(800) 375-8387",
+			"address": "2495 Shreveport Hwy, Pineville, LA 71360",
+			"latitude": "31.354216700",
+			"longitude": "-92.437206700"
+		},
+		{
+			"name": "Fast Pace Health Urgent Care - Natchitoches",
+			"phone": "(318) 352-5221",
+			"address": "307 Keyser Ave, Natchitoches, LA 71457",
+			"latitude": "31.753370000",
+			"longitude": "-93.081743000"
+		},
+		{
+			"name": "Monroe VA Clinic",
+			"phone": "(318) 343-6100",
+			"address": "1691 Bienville Dr, Monroe, LA 71201",
+			"latitude": "32.532194200",
+			"longitude": "-92.099408200"
+		},
+		{
+			"name": "SouthStar Urgent Care - Abbeville",
+			"phone": "(337) 893-2273",
+			"address": "3013 Veterans Memorial Dr #101, Abbeville, LA 70510",
+			"latitude": "29.970215000",
+			"longitude": "-92.092697000"
+		},
+		{
+			"name": "LCMC Health Old Metairie Health Center",
+			"phone": "(504) 304-7949",
+			"address": "701 Metairie Road Suite 1A205, New Orleans, LA 70005",
+			"latitude": "29.988920000",
+			"longitude": "-90.131343000"
+		},
+		{
+			"name": "Rumford VA Clinic",
+			"phone": "(207) 369-3200",
+			"address": "431 Franklin St, Rumford, ME 04276",
+			"latitude": "44.551698000",
+			"longitude": "-70.557740000"
+		},
+		{
+			"name": "Redington-Fairview General Hospital",
+			"phone": "(207) 369-3200",
+			"address": "46 Fairview Ave, Skowhegan, ME 04976",
+			"latitude": "44.758660000",
+			"longitude": "-69.712980000"
+		},
+		{
+			"name": "Northern Light CA Dean Hospital",
+			"phone": " (207) 695-5200",
+			"address": "364 Pritham Ave, Greenville Junction, ME 04442",
+			"latitude": "45.461189764",
+			"longitude": "-69.621686083"
+		},
+		{
+			"name": "PCHC - Helen Hunt Health Center",
+			"phone": "(207) 827-6128",
+			"address": "242 Brunswick St, Old Town, ME 04468",
+			"latitude": "44.932667000",
+			"longitude": "-68.646594000"
+		},
+		{
+			"name": "Pines Caribou Health Center",
+			"phone": "(207) 498-2356",
+			"address": "74 Access Hwy, Caribou, ME 04736",
+			"latitude": "46.873988000",
+			"longitude": "-67.992528000"
+		},
+		{
+			"name": "MedStar Health Urgent Care in Gaithersburg",
+			"phone": "(301) 926-3020",
+			"address": "12111 Darnestown Rd, Gaithersburg, MD 20878",
+			"latitude": "39.117733000",
+			"longitude": "-77.250592000"
+		},
+		{
+			"name": "COVID-19 Drive-thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "1631 Dual Hwy, Hagerstown, MD 21740",
+			"latitude": "39.616533000",
+			"longitude": "-77.693496000"
+		},
+		{
+			"name": "COVID-19 Drive-thru Testing at Walgreen",
+			"phone": "(800) 925-4733",
+			"address": "909 Mt Hermon Rd, Salisbury, MD 21804",
+			"latitude": "38.368332000",
+			"longitude": "-75.581311000"
+		},
+		{
+			"name": "Righttime Medical Care",
+			"phone": "(888) 808-6483",
+			"address": "19777 Frederick Rd, Germantown, MD 20876",
+			"latitude": "39.179401000",
+			"longitude": "-77.238009000"
+		},
+		{
+			"name": "Family Health Pharmacy of Hampstead",
+			"phone": "(410) 239-3100",
+			"address": "907 S Main St, Hampstead, MD 21074",
+			"latitude": "39.600932000",
+			"longitude": "-76.848019000"
+		},
+		{
+			"name": "Cooley Dickinson Hospital",
+			"phone": "(413) 582-2000",
+			"address": "30 Locust St, Northampton, MA 01060",
+			"latitude": "42.330769000",
+			"longitude": "-72.652958000"
+		},
+		{
+			"name": "Baystate Wing Hospital",
+			"phone": "(413) 283-7651",
+			"address": "40 Wright St, Palmer, MA 01069",
+			"latitude": "42.169609000",
+			"longitude": "-72.341477000"
+		},
+		{
+			"name": "Fitchburg VA Clinic",
+			"phone": "(978) 342-9781",
+			"address": "881 Main St, Fitchburg, MA 01420",
+			"latitude": "42.586272000",
+			"longitude": "-71.804388000"
+		},
+		{
+			"name": "AFC Urgent Care North Andover",
+			"phone": "(978) 470-0800",
+			"address": "129 Turnpike St, North Andover, MA 01845",
+			"latitude": "42.675501000",
+			"longitude": "-71.130683000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "226 Broadway, Taunton, MA 02780",
+			"latitude": "41.920578000",
+			"longitude": "-71.091366000"
+		},
+		{
+			"name": "Sheridan Community Hospital",
+			"phone": "(989) 291-3261",
+			"address": "301 N Main St, Sheridan, MI 48884",
+			"latitude": "43.215970000",
+			"longitude": "-85.073912000"
+		},
+		{
+			"name": "Great Lakes Bay Health Centers - David R. Gamez",
+			"phone": "(989) 753-6000",
+			"address": "501 Lapeer Ave, Saginaw, MI 48607",
+			"latitude": "43.432846100",
+			"longitude": "-83.935245000"
+		},
+		{
+			"name": "Spectrum Health Big Rapids Hospital",
+			"phone": "(231) 796-8691",
+			"address": "605 Oak St, Big Rapids, MI 49307",
+			"latitude": "43.694177000",
+			"longitude": "-85.474277000"
+		},
+		{
+			"name": "East Jordan Family Health Center",
+			"phone": "(231) 536-2206",
+			"address": "601 Bridge St, East Jordan, MI 49727",
+			"latitude": "45.150029000",
+			"longitude": "-85.137824000"
+		},
+		{
+			"name": "Marquette VA Outpatient Clinic",
+			"phone": "(906) 226-4618",
+			"address": "1414 W Fair Ave, Marquette, MI 49855",
+			"latitude": "46.557682000",
+			"longitude": "-87.417604000"
+		},
+		{
+			"name": "Allina Health Shakopee Clinic",
+			"phone": "(952) 428-3535",
+			"address": "1601 St Francis Ave #100, Shakopee, MN 55379",
+			"latitude": "44.771015000",
+			"longitude": "-93.501175000"
+		},
+		{
+			"name": "Sanford Clearbrook Clinic",
+			"phone": "(218) 776-3124",
+			"address": "22 Elm St, Clearbrook, MN 56634",
+			"latitude": "46.557682000",
+			"longitude": "-87.417604000"
+		},
+		{
+			"name": "LakeWood Health Center",
+			"phone": "(218) 634-2120",
+			"address": "600 Main Ave S, Baudette, MN 56623",
+			"latitude": "48.706516000",
+			"longitude": "-94.600525000"
+		},
+		{
+			"name": "LifeCare Medical Center",
+			"phone": "(218) 463-2500",
+			"address": "715 Delmore Dr, Roseau, MN 56751",
+			"latitude": "48.839115000",
+			"longitude": "-95.760917000"
+		},
+		{
+			"name": "Sanford Health 621 DeMers Clinic",
+			"phone": "(218) 773-5857",
+			"address": "621 Demers Ave, East Grand Forks, MN 56721",
+			"latitude": "47.932698000",
+			"longitude": "-97.022455000"
+		},
+		{
+			"name": "Friendship Medical Clinic",
+			"phone": "(662) 488-8799",
+			"address": "5482 MS-15, Ecru, MS 38841",
+			"latitude": "34.325873000",
+			"longitude": "-89.038985000"
+		},
+		{
+			"name": "Fast Pace Health Urgent Care - Carthage, MS",
+			"phone": "(601) 298-3101",
+			"address": "115 MS-16, Carthage, MS 39051",
+			"latitude": "32.732508000",
+			"longitude": "-89.534460000"
+		},
+		{
+			"name": "Covington County Hospital",
+			"phone": "(601) 765-6711",
+			"address": "701 S Holly Ave, Collins, MS 39428",
+			"latitude": "31.637363000",
+			"longitude": "-89.554643000"
+		},
+		{
+			"name": "Sharkey Issaquena Community Hospital",
+			"phone": "(662) 873-5205",
+			"address": "47 S 4th St, Rolling Fork, MS 39159",
+			"latitude": "32.904732000",
+			"longitude": "-90.884527000"
+		},
+		{
+			"name": "Meridian VA Clinic",
+			"phone": "(601) 482-3275",
+			"address": "2103 13th St, Meridian, MS 39301",
+			"latitude": "32.369534000",
+			"longitude": "-88.699599000"
+		},
+		{
+			"name": "Southwest Medical Associates",
+			"phone": "(573) 486-2118",
+			"address": "1714 Wein St, Hermann, MO 65041",
+			"latitude": "38.692556100",
+			"longitude": "-91.451078400"
+		},
+		{
+			"name": "Cox Medical Center",
+			"phone": "(417) 269-6000",
+			"address": "3801 S National Ave, Springfield, MO 65807",
+			"latitude": "37.144767000",
+			"longitude": "-93.280340000"
+		},
+		{
+			"name": "Thousand Oaks Hospital (Freeman And Mercy Hospital Joplin)",
+			"phone": "(417) 347-6444",
+			"address": "1905 W 32nd St #106, Joplin, MO 64755",
+			"latitude": "37.056506000",
+			"longitude": "-94.537427000"
+		},
+		{
+			"name": "Noble Health Audrain Community Hospital",
+			"phone": "(573) 582-5000",
+			"address": "620 E Monroe St, Mexico, MO 65265",
+			"latitude": "39.172477000",
+			"longitude": "-91.878422000"
+		},
+		{
+			"name": "Malden Pharmacy",
+			"phone": "(573) 276-3784",
+			"address": "214 W Main St, Malden, MO 63863",
+			"latitude": "36.558470000",
+			"longitude": "-89.968881000"
+		},
+		{
+			"name": "Central Montana Medical Center",
+			"phone": "(406) 535-771",
+			"address": "408 Wendell Ave, Lewistown, MT 59457",
+			"latitude": "47.058819000",
+			"longitude": "-109.443058000"
+		},
+		{
+			"name": "Mountainview Medical Center: Emergency Room",
+			"phone": "(406) 547-3321",
+			"address": "16 W Main St, White Sulphur Springs, MT 59645",
+			"latitude": "46.547891000",
+			"longitude": "-110.904300000"
+		},
+		{
+			"name": "Lewistown VA Clinic",
+			"phone": "(406) 535-4790",
+			"address": "629 E Main St #1, Lewistown, MT 59457",
+			"latitude": "-109.421776700",
+			"longitude": "47.067231700"
+		},
+		{
+			"name": "Great Falls VA Clinic",
+			"phone": "(406) 771-5800",
+			"address": "1400 28th St S Suite 1, Great Falls, MT 59405",
+			"latitude": "47.490028000",
+			"longitude": "-111.259693000"
+		},
+		{
+			"name": "Roundup Memorial Healthcare",
+			"phone": "(406) 323-2301",
+			"address": "1202 3rd St W, Roundup, MT 59072",
+			"latitude": "46.453748000",
+			"longitude": "-108.545546000"
+		},
+		{
+			"name": "Minden",
+			"phone": "(402) 207-9377",
+			"address": "404 21st St, Minden, NE 68959",
+			"latitude": "40.517825000",
+			"longitude": "-98.947328000"
+		},
+		{
+			"name": "VA Medical Center-Grand Island",
+			"phone": "(308) 382-3660",
+			"address": "2201 N Broadwell Ave, Grand Island, NE 68803",
+			"latitude": "40.942672000",
+			"longitude": "-98.356929000"
+		},
+		{
+			"name": "Gordon Memorial Hospital",
+			"phone": "(308) 282-0401",
+			"address": "300 E 8th St, Gordon, NE 6934",
+			"latitude": "42.812327000",
+			"longitude": "-102.199692000"
+		},
+		{
+			"name": "Kimball Health Services Clinic",
+			"phone": "(308) 235-1966",
+			"address": "505 S Burg St, Kimball, NE 69145",
+			"latitude": "41.232517000",
+			"longitude": "-103.666817000"
+		},
+		{
+			"name": "MedExpress Urgent Care",
+			"phone": "(402) 435-9078",
+			"address": "5000 N 26th St, Lincoln, NE 68521",
+			"latitude": "40.860993000",
+			"longitude": "-96.682709000"
+		},
+		{
+			"name": "Elko Family Medical & Dental",
+			"phone": "(775) 738-1553",
+			"address": "762 14th St, Elko, NV 89801",
+			"latitude": "40.842045000",
+			"longitude": "-115.758179000"
+		},
+		{
+			"name": "Mesa View Regional Hospital",
+			"phone": "(702) 346-8040",
+			"address": "1299 Bertha Howe Ave, Mesquite, NV 89027",
+			"latitude": "36.810038000",
+			"longitude": "-114.115428000"
+		},
+		{
+			"name": "Jackpot Community Health Center",
+			"phone": "(775) 755-2500",
+			"address": "950 Lady Luck Dr, Jackpot, NV 89825",
+			"latitude": "41.988647600",
+			"longitude": "-114.666012200"
+		},
+		{
+			"name": "Humboldt General Hospital",
+			"phone": "(775) 623-5222",
+			"address": "118 E Haskell St, Winnemucca, NV 89445",
+			"latitude": "40.971333000",
+			"longitude": "-117.727169000"
+		},
+		{
+			"name": "Pahrump VA Clinic",
+			"phone": "(775) 727-7535",
+			"address": "220 Lola Ln, Pahrump, NV 89048",
+			"latitude": "36.216361000",
+			"longitude": "-116.024083000"
+		},
+		{
+			"name": "On-Site Medical Services",
+			"phone": "(603) 826-6500",
+			"address": "71 Belknap Ave, Newport, NH 03773",
+			"latitude": "43.366018300",
+			"longitude": "-72.179450500"
+		},
+		{
+			"name": "Huggins Hospital",
+			"phone": "(603) 569-7500",
+			"address": "240 S Main St, Wolfeboro, NH 03894",
+			"latitude": "43.581957000",
+			"longitude": "-71.200691000"
+		},
+		{
+			"name": "Rite Aid",
+			"phone": "(603) 744-2652",
+			"address": "360 Summer St, Bristol, NH 03222",
+			"latitude": "43.597658000",
+			"longitude": "-71.726940000"
+		},
+		{
+			"name": "CVS",
+			"phone": "(603) 536-4079",
+			"address": "345 Highland St, Plymouth, NH 03264",
+			"latitude": "43.769943000",
+			"longitude": "-71.722216000"
+		},
+		{
+			"name": "COVID-19 Drive-thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "1298 Hooksett Rd, Hooksett, NH 03106",
+			"latitude": "43.052277000",
+			"longitude": "-71.439161000"
 		}
 	],
 	"vaccination-locations": [
