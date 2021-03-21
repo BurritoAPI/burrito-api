@@ -719,21 +719,21 @@
 		{
 			"name": "Rite Aid Pharmacy",
 			"phone": "(925) 846-8345",
-			"address": "Valley Ave, Pleasanton, CA 94566"
+			"address": "Valley Ave, Pleasanton, CA 94566",
 			"latitude": "37.675991000",
 			"longitude": "-121.894792000"
 		},
 		{
 			"name": "CVS Pharmacy",
 			"phone": "(925) 249-9011",
-			"address": "Dupont Dr, Pleasanton, CA 94566"
+			"address": "Dupont Dr, Pleasanton, CA 94566",
 			"latitude": "37.656578000",
 			"longitude": "-121.897913000"
 		},
 		{
 			"name": "CVS Pharmacy",
 			"phone": "(925) 241-0000",
-			"address": "7600 Amador Valley Blvd, Dublin, CA 94568"
+			"address": "7600 Amador Valley Blvd, Dublin, CA 94568",
 			"latitude": "37.706669000",
 			"longitude": "-121.932038000"
 		}
