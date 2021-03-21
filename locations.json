@@ -1,20 +1,741 @@
 {
 	"testing-locations": [
 		{
-			"name": null,
-			"phone": null,
-			"address": null,
-			"latitude": null,
-			"longitude": null
+			"name": "AFC PriMed Prattville",
+			"phone": "(334) 361-7054",
+			"address": "1965 Cobbs Ford Rd, Prattville, AL 36066",
+			"latitude": "32.460366000",
+			"longitude": "-86.412974000"
+		},
+		{
+			"name": "CAVHCS Montgomery Clinic",
+			"phone": "(800) 214-8387",
+			"address": "8105 Veterans Way, Montgomery, AL 36117",
+			"latitude": "32.357801000",
+			"longitude": "-86.128488000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "805 S Montgomery Ave, Sheffield, AL 356603813",
+			"latitude": "34.749930000",
+			"longitude": "-87.698187000"
+		},
+		{
+			"name": "MainStreet Family Care - Arab",
+			"phone": "(256) 677-4553",
+			"address": "1420 N Brindlee Mountain Pkwy Suite A-1, Arab, AL 35016",
+			"latitude": "34.341936800",
+			"longitude": "-86.502941800"
+		},
+		{
+			"name": "American Family Care Daphne",
+			"phone": "(251) 626-5700",
+			"address": "6631 Park Dr, Daphne, AL 36526",
+			"latitude": "30.630659000",
+			"longitude": "-87.909374000"
+		},
+		{
+			"name": "Fairbanks Memorial Hospital",
+			"phone": "(907) 452-8181",
+			"address": "1650 Cowles St, Fairbanks, AK 99701",
+			"latitude": "64.831164000",
+			"longitude": "-147.739645000"
+		},
+		{
+			"name": "Camai Community Health Center",
+			"phone": "(907) 246-6155",
+			"address": "2 School Rd, Naknek, AK 99633",
+			"latitude": "58.733052000",
+			"longitude": "-157.005823000"
+		},
+		{
+			"name": "Yukon-Kuskokwim Delta Regional Hospital, Drive-Through Tent",
+			"phone": "(907) 543-6395",
+			"address": "700 Chief Eddie Hoffman Hwy, Bethel, AK 99559",
+			"latitude": "60.787849000",
+			"longitude": "-161.787242000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "2197 W Dimond Blvd, Anchorage, AK 99515",
+			"latitude": "61.138110000",
+			"longitude": "-149.919733000"
+		},
+		{
+			"name": "Anna Hoblet Memorial Clinic",
+			"phone": "(907) 548-2742",
+			"address": "Isanotski Rd, False Pass, AK 99583",
+			"latitude": "54.848559633",
+			"longitude": "-163.412504884"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "100 S Beeline Hwy, Payson, AZ 85541",
+			"latitude": "34.240070000",
+			"longitude": "-111.323817000"
+		},
+		{
+			"name": "Arizona Clinical Trials",
+			"phone": "(480) 360-4000",
+			"address": "2152 S Vineyard Ave Bldg 8, Ste 123, Mesa, AZ 85210",
+			"latitude": "33.375664000",
+			"longitude": "-111.845056000"
+		},
+		{
+			"name": "Kayenta Health Center",
+			"phone": "(928) 697-4000",
+			"address": "394.3 US-160, Kayenta, AZ 86033",
+			"latitude": "36.709632000",
+			"longitude": "-110.228996000"
+		},
+		{
+			"name": "Pediatric Center of Excellence - Chiricahua Community Health Centers, Inc.",
+			"phone": "(520) 364-5437",
+			"address": "815 15th St, Douglas, AZ 85607",
+			"latitude": "31.349470000",
+			"longitude": "-109.549388000"
+		},
+		{
+			"name": "Patient's Choice Lab",
+			"phone": "(602) 923-0605",
+			"address": "9819 N 95th St #101, Scottsdale, AZ 85258",
+			"latitude": "33.575597000",
+			"longitude": "-111.875076000"
+		},
+		{
+			"name": "CHI St. Vincent Heart Clinic Arkansas - Cabot",
+			"phone": "(877) 868-5175",
+			"address": "2039 W Main St Suite C, Cabot, AR 72023",
+			"latitude": "34.980283300",
+			"longitude": "-92.040136700"
+		},
+		{
+			"name": "El Dorado VA Clinic",
+			"phone": "(870) 875-5900",
+			"address": "1702 N West Ave, El Dorado, AR 71730",
+			"latitude": "33.229024379",
+			"longitude": "-92.665711744"
+		},
+		{
+			"name": "Cabun Clinic",
+			"phone": "(870) 798-4064",
+			"address": "402 S Lee St, Hampton, AR 71744",
+			"latitude": "33.534108000",
+			"longitude": "-92.468570000"
+		},
+		{
+			"name": "MedExpress Urgent Care",
+			"phone": "(501) 776-8341",
+			"address": "1501 Military Rd, Benton, AR 72015",
+			"latitude": "34.578021000",
+			"longitude": "-92.575128000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "9085 US-64, Arlington, TN 38002",
+			"latitude": "35.203819000",
+			"longitude": "-89.759927000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "770 1st St, Gilroy, CA 95020",
+			"latitude": "37.013080000",
+			"longitude": "-121.584397000"
+		},
+		{
+			"name": "One Medical",
+			"phone": "(408) 228-1020",
+			"address": "746 The Alameda #10, San Jose, CA 95126",
+			"latitude": "37.013080000",
+			"longitude": "-121.584397000"
+		},
+		{
+			"name": "AFC Urgent Care Newark",
+			"phone": "(510) 401-3725",
+			"address": "5763 Stevenson Blvd, Newark, CA 94560",
+			"latitude": "37.519809000",
+			"longitude": "-121.990787000"
+		},
+		{
+			"name": "LifeLong East Oakland Health Center",
+			"phone": "(510) 981-4100",
+			"address": "10700 MacArthur Blvd, Oakland, CA 94605",
+			"latitude": "37.743383000",
+			"longitude": "-122.149932000"
+		},
+		{
+			"name": "ADx Healthcare",
+			"phone": "(833) 508-1703",
+			"address": "2751 Napa Valley Corporate Dr, Napa, CA 94558",
+			"latitude": "38.249571000",
+			"longitude": "-122.275329000"
+		},
+		{
+			"name": "United Health Centers - Highland Avenue",
+			"phone": "(800) 492-4227",
+			"address": "2705 S Highland Ave, Selma, CA 93662",
+			"latitude": "36.573693000",
+			"longitude": "-119.629172000"
+		},
+		{
+			"name": "MedCenta Pharmacy",
+			"phone": "(818) 914-5049",
+			"address": "11440 Windemere Pkwy, San Ramon, CA 91307",
+			"latitude": "34.187074000",
+			"longitude": "-118.643364000"
+		},
+		{
+			"name": "CityHealth COVID-19 Testing - Livermore",
+			"phone": "(510) 984-2489",
+			"address": "Campus Loop Rd, Livermore, CA 94551",
+			"latitude": "37.709975000",
+			"longitude": "-121.800535000"
+		},
+		{
+			"name": "Stanford Health Care - ValleyCare Valley Memorial Center",
+			"phone": "(925) 447-7000",
+			"address": "1st St, Livermore, CA 94550",
+			"latitude": "37.678388000",
+			"longitude": "-121.780704000"
+		},
+		{
+			"name": "Livermore VA Medical Center",
+			"phone": "(925) 373-4700",
+			"address": "Swallow Ln, Livermore, CA 94550",
+			"latitude": "37.625589000",
+			"longitude": "-121.763220000"
+		},
+		{
+			"name": "Instant Urgent Care",
+			"phone": "(925) 415-6004",
+			"address": "4400 Tassajara Rd, Dublin, CA 94568",
+			"latitude": "37.706065000",
+			"longitude": "-121.872618000"
+		},
+		{
+			"name": "CityHealth COVID-19 Testing - Dublin",
+			"phone": "(510) 984-2489",
+			"address": "Broder Blvd, Dublin, CA 94568",
+			"latitude": "37.715881363",
+			"longitude": "-121.889921125"
+		},
+		{
+			"name": "John Muir Health Outpatient Center",
+			"phone": "(925) 224-0800",
+			"address": "5860 Owens Dr, Pleasanton, CA 94588",
+			"latitude": "37.699277000",
+			"longitude": "-121.899145000"
+		},
+		{
+			"name": "Collection Sites - Covid-19 Testing",
+			"phone": "(725) 465-1910",
+			"address": "1 Stoneridge Mall Rd, Pleasanton, CA 94588",
+			"latitude": "37.695354000",
+			"longitude": "-121.928744000"
+		},
+		{
+			"name": "CVS Pharmacy",
+			"phone": "(925) 249-9011",
+			"address": "Dupont Dr, Pleasanton, CA 94566",
+			"latitude": "37.656578000",
+			"longitude": "-121.897913000"
+		},
+		{
+			"name": "SOAR Academy",
+			"phone": "(720) 833-6707",
+			"address": "4107 S Federal Blvd, Englewood, CO 80110",
+			"latitude": "39.640535000",
+			"longitude": "-105.026649000"
+		},
+		{
+			"name": "Burlington VA Clinic",
+			"phone": "(719) 346-5239",
+			"address": "1177 Rose Ave, Burlington, CO 80807",
+			"latitude": "39.300881800",
+			"longitude": "-102.264645500"
+		},
+		{
+			"name": "Lamar VA Clinic",
+			"phone": "(719) 336-0315",
+			"address": "1401 S Main St #2, Lamar, CO 81052",
+			"latitude": "38.075493000",
+			"longitude": "-102.617623000"
+		},
+		{
+			"name": "Colorado Mountain Medical, Eagle",
+			"phone": "(970) 926-6340",
+			"address": "377 Sylvan Lake Rd #210, Eagle, CO 81631",
+			"latitude": "39.643538000",
+			"longitude": "-106.836663000"
+		},
+		{
+			"name": "Northeast Colorado Health Department",
+			"phone": "(970) 867-4918",
+			"address": "228 W Railroad Ave #2324, Fort Morgan, CO 80701",
+			"latitude": "40.248254300",
+			"longitude": "-103.804206800"
+		},
+		{
+			"name": "Milford Hospital",
+			"phone": "(203) 876-4100",
+			"address": "849 Boston Post Rd, Milford, CT 06460",
+			"latitude": "41.231189000",
+			"longitude": "-73.053350000"
+		},
+		{
+			"name": "CVS Pharmacy",
+			"phone": "(203) 797-8919",
+			"address": "146 South St, Danbury, CT 06810",
+			"latitude": "41.385581000",
+			"longitude": "-73.444157000"
+		},
+		{
+			"name": "Hartford HealthCare-GoHealth Urgent Care",
+			"phone": "(860) 317-9787",
+			"address": "1445 New Britain Ave Ste 1381, West Hartford, CT 06110",
+			"latitude": "41.725796000",
+			"longitude": "-72.757342000"
+		},
+		{
+			"name": "AFC Urgent Care Danbury",
+			"phone": "(203) 826-2140",
+			"address": "2 Main St, Danbury, CT 06810",
+			"latitude": "41.386375000",
+			"longitude": "-73.444624000"
+		},
+		{
+			"name": "Charlotte Hungerford Hospital",
+			"phone": "(860) 496-6666",
+			"address": "540 Litchfield St, Torrington, CT 06790",
+			"latitude": "41.791663000",
+			"longitude": "-73.133800000"
+		},
+		{
+			"name": "Camden Pharmacy",
+			"phone": "(302) 535-8604",
+			"address": "4598 S Dupont Hwy, Camden, DE 19934",
+			"latitude": "39.095913000",
+			"longitude": "-75.546914000"
+		},
+		{
+			"name": "James Williams State Services Center",
+			"phone": "(302) 857-5000",
+			"address": "805 River Rd, Dover, DE 19901",
+			"latitude": "39.152832000",
+			"longitude": "-75.514772800"
+		},
+		{
+			"name": "Express Pharmacy",
+			"phone": "(302) 875-5400",
+			"address": "30214 Sussex Hwy #7, Laurel, DE 19956",
+			"latitude": "38.551394000",
+			"longitude": "-75.524113000"
+		},
+		{
+			"name": "Rite Aid",
+			"phone": "(302) 398-4420",
+			"address": "17069 S Dupont Hwy, Harrington, DE 19952",
+			"latitude": "38.925081000",
+			"longitude": "-75.567047000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "500 Plaza Dr, Newark, DE 19702",
+			"latitude": "39.627541000",
+			"longitude": "-75.745187000"
+		},
+		{
+			"name": "ARCpoint Labs of Fort Myers",
+			"phone": "(239) 931-1036",
+			"address": "4350 Fowler St #2, Fort Myers, FL 33901",
+			"latitude": "26.599631000",
+			"longitude": "-81.862970000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "1800 N Nob Hill Rd, Plantation, FL 33322",
+			"latitude": "26.147100000",
+			"longitude": "-80.286520000"
+		},
+		{
+			"name": "CareSpot Urgent Care of Boynton",
+			"phone": "(561) 740-2273",
+			"address": "8756 W Boynton Beach Blvd #150, Boynton Beach, FL 33472",
+			"latitude": "26.525862000",
+			"longitude": "-80.184310000"
+		},
+		{
+			"name": "Florida Community Health Centers, Inc",
+			"phone": "(561) 924-6100",
+			"address": "170 S Barfield Hwy #101, Pahokee, FL 33476",
+			"latitude": "26.823127000",
+			"longitude": "-80.660857000"
+		},
+		{
+			"name": "Cleveland Clinic Indian River Hospital",
+			"phone": "(772) 567-4311",
+			"address": "1000 36th St, Vero Beach, FL 32960",
+			"latitude": "27.658361000",
+			"longitude": "-80.393760000"
+		},
+		{
+			"name": "Piedmont Physicians at Newnan Professional Center",
+			"phone": "(770) 400-7700",
+			"address": "2401 Newnan Crossing Blvd East, #200, Newnan, GA 30265",
+			"latitude": "33.360394000",
+			"longitude": "-84.751254000"
+		},
+		{
+			"name": "Peachtree Immediate Care - LaGrange",
+			"phone": "(706) 884-7822",
+			"address": "1495 Lafayette Pkwy, LaGrange, GA 30241",
+			"latitude": "33.042183000",
+			"longitude": "-84.985344000"
+		},
+		{
+			"name": "Orangeburg VA Clinic",
+			"phone": "(803) 533-1335",
+			"address": "1767 Village Park Dr, Orangeburg, SC 29118",
+			"latitude": "33.523214500",
+			"longitude": "-80.857791100"
+		},
+		{
+			"name": "Genesis Healthcare, Inc.",
+			"phone": "(843) 781-7428",
+			"address": "457 Spruce St, Ritter, SC 29488",
+			"latitude": "32.919142100",
+			"longitude": "-80.672461500"
+		},
+		{
+			"name": "Reddy Urgent Care",
+			"phone": "(706) 621-7555",
+			"address": "227 Habersham Village Cir, Cornelia, GA 30531",
+			"latitude": "34.541165000",
+			"longitude": "-83.543683300"
+		},
+		{
+			"name": "Kailua-Kona VA Clinic",
+			"phone": "(808) 329-0774",
+			"address": "75-377 Hualalai Rd, Kailua-Kona, HI 96740",
+			"latitude": "19.631339000",
+			"longitude": "-155.976939500"
+		},
+		{
+			"name": "Maui VA Clinic",
+			"phone": "(808) 871-2454",
+			"address": "203 Hoohana St, Kahului, HI 96732",
+			"latitude": "20.887318000",
+			"longitude": "-156.463267000"
+		},
+		{
+			"name": "Molokai Community Health Center",
+			"phone": "(808) 553-5038",
+			"address": "30 Oki Pl, Kaunakakai, HI 96748",
+			"latitude": "21.086173800",
+			"longitude": "-157.019092800"
+		},
+		{
+			"name": "Lāna'i Community Health Center",
+			"phone": "(808) 565-6919",
+			"address": "333 6th St, Lanai City, HI 96763",
+			"latitude": "20.826506000",
+			"longitude": "-156.921151000"
+		},
+		{
+			"name": "Tripler Army Medical Center",
+			"phone": "(888) 683-2778",
+			"address": "1 Jarrett White Rd, Honolulu, HI 96859",
+			"latitude": "21.359199000",
+			"longitude": "-157.889495000"
+		},
+		{
+			"name": "Lost Rivers Medical Center",
+			"phone": "(208) 252-7654",
+			"address": "551 Highland Dr, Arco, ID 83213",
+			"latitude": "43.639522000",
+			"longitude": "-113.295137000"
+		},
+		{
+			"name": "Sterling Urgent Care",
+			"phone": "(208) 788-4122",
+			"address": "507 S Main St, Hailey, ID 83333",
+			"latitude": "43.515284000",
+			"longitude": "-114.312562000"
+		},
+		{
+			"name": "Heritage Health",
+			"phone": "(208) 783-1267",
+			"address": "740 Mc Kinley Ave W, Kellogg, ID 83837",
+			"latitude": "47.537646000",
+			"longitude": "-116.131842000"
+		},
+		{
+			"name": "St. Mary's Cottonwood Medical Clinic",
+			"phone": "(208) 962-3267",
+			"address": "701 Lewiston St, Cottonwood, ID 83522",
+			"latitude": "46.050416700",
+			"longitude": "-116.353428300"
+		},
+		{
+			"name": "Love County Health Department",
+			"phone": "(208) 265-6252",
+			"address": "30410 ID-200, Ponderay, ID 83852",
+			"latitude": "48.300013300",
+			"longitude": "-116.541008300"
+		},
+		{
+			"name": "Paris Community Hospital, a service of Horizon Health",
+			"phone": "(217) 465-4141",
+			"address": "721 E Court St, Paris, IL 61944",
+			"latitude": "39.607011000",
+			"longitude": "-87.677204000"
+		},
+		{
+			"name": "Vista Medical Center - Lindenhurst",
+			"phone": "(847) 356-4700",
+			"address": "1050 Red Oak Ln, Lindenhurst, IL 60046",
+			"latitude": "42.413874000",
+			"longitude": "-88.056563000"
+		},
+		{
+			"name": "Sarah Bush Lincoln Health Center",
+			"phone": "(217) 258-2525",
+			"address": "1000 Health Center Dr, Mattoon, IL 61938",
+			"latitude": "39.488367000",
+			"longitude": "-88.273361000"
+		},
+		{
+			"name": "Hy-Vee Pharmacy",
+			"phone": "(217) 224-7555",
+			"address": "3700 Broadway St, Quincy, IL 62305",
+			"latitude": "39.933531000",
+			"longitude": "-91.356732000"
+		},
+		{
+			"name": "Rural Health Inc",
+			"phone": "(618) 524-7499",
+			"address": "1003 E 5th St, Metropolis, IL 62960",
+			"latitude": "37.145796000",
+			"longitude": "-88.719161000"
+		},
+		{
+			"name": "MedExpress Urgent Care",
+			"phone": "(765) 457-4370",
+			"address": "1010 S Reed Rd, Kokomo, IN 46901",
+			"latitude": "40.475850000",
+			"longitude": "-86.107265000"
+		},
+		{
+			"name": "Pulaski Memorial Hospital",
+			"phone": "(574) 946-2100",
+			"address": "616 E 13th St, Winamac, IN 46996",
+			"latitude": "41.056214000",
+			"longitude": "-86.596029000"
+		},
+		{
+			"name": "Methodist Hospitals Northlake Campus",
+			"phone": "(219) 886-4000",
+			"address": "600 Grant St, Gary, IN 46402",
+			"latitude": "41.599420000",
+			"longitude": "-87.357725000"
+		},
+		{
+			"name": "COVID-19 Drive-Thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "124 E North St, Kendallville, IN 46755",
+			"latitude": "41.451872000",
+			"longitude": "-85.266691000"
+		},
+		{
+			"name": "Schneck Family Care - Scott County",
+			"phone": "(812) 752-7444",
+			"address": "1366 N Gardner St #140, Scottsburg, IN 47170",
+			"latitude": "38.702242000",
+			"longitude": "-85.784223000"
+		},
+		{
+			"name": "Hy-Vee Pharmacy",
+			"phone": "(515) 221-2751",
+			"address": "555 S 51st St, West Des Moines, IA 50265",
+			"latitude": "41.561062000",
+			"longitude": "-93.774770000"
+		},
+		{
+			"name": "Cass County Memorial Hospital",
+			"phone": "(712) 243-3250",
+			"address": "1501 E 10th St, Atlantic, IA 50022",
+			"latitude": "41.401244000",
+			"longitude": "-94.991091000"
+		},
+		{
+			"name": "UnityPoint Health - Grinnell Regional Medical Center",
+			"phone": "(641) 236-7511",
+			"address": "210 4th Ave, Grinnell, IA 50112",
+			"latitude": "41.742706000",
+			"longitude": "-92.734374000"
+		},
+		{
+			"name": "Spirit Lake VA Clinic",
+			"phone": "(712) 336-6400",
+			"address": "1850 Royal Ave, Spirit Lake, IA 51360",
+			"latitude": "43.418365479",
+			"longitude": "-95.107719421"
+		},
+		{
+			"name": "Carroll VA Clinic",
+			"phone": "(712) 794-6780",
+			"address": "311 S Clark St Suite 275, Carroll, IA 51401",
+			"latitude": "42.056861000",
+			"longitude": "-94.867230000"
+		},
+		{
+			"name": "Hodgeman County Health Center",
+			"phone": "(620) 357-8361",
+			"address": "809 W Bramley St, Jetmore, KS 67854",
+			"latitude": "38.083087000",
+			"longitude": "-99.903517000"
+		},
+		{
+			"name": "Kearny County Hospital",
+			"phone": "(620) 355-7111",
+			"address": "500 E Thorpe St, Lakin, KS 67860",
+			"latitude": "37.946943000",
+			"longitude": "-101.251150000"
+		},
+		{
+			"name": "Colmery-O'Neil Vamc",
+			"phone": "(785) 350-3111",
+			"address": "2200 SW Gage Blvd, Topeka, KS 66622",
+			"latitude": "39.026294000",
+			"longitude": "-95.722966000"
+		},
+		{
+			"name": "Stormont Vail Hospital & Trauma Center",
+			"phone": "(785) 354-6000",
+			"address": "1500 SW 10th Ave, Topeka, KS 66604",
+			"latitude": "39.052607000",
+			"longitude": "-95.696466000"
+		},
+		{
+			"name": "Clay County Medical Center",
+			"phone": "(785) 632-2144",
+			"address": "617 Liberty St, Clay Center, KS 67432",
+			"latitude": "39.392269000",
+			"longitude": "-97.123127000"
+		},
+		{
+			"name": "Springs Urgent Care",
+			"phone": "(270) 852-1632",
+			"address": "2200 E Parrish Ave #104, Owensboro, KY 42303",
+			"latitude": "37.759698000",
+			"longitude": "-87.079185000"
+		},
+		{
+			"name": "GRDHD Union County Health Center",
+			"phone": "(270) 389-1230",
+			"address": "218 W McElroy St, Morganfield, KY 42437",
+			"latitude": "37.685677000",
+			"longitude": "-87.917605200"
+		},
+		{
+			"name": "Family Medical Clinic",
+			"phone": "(270) 900-1236",
+			"address": "423 Crume Rd, Vine Grove, KY 40175",
+			"latitude": "37.804098000",
+			"longitude": "-85.985447000"
+		},
+		{
+			"name": "Lexington VA Medical Center, Sousley Campus",
+			"phone": "(859) 233-4511",
+			"address": "2250 Leestown Rd, Lexington, KY 40511",
+			"latitude": "38.073764800",
+			"longitude": "-84.538826000"
+		},
+		{
+			"name": "COVID-19 Drive-thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "10295 WV-152, Wayne, WV 25570",
+			"latitude": "38.227322000",
+			"longitude": "-82.442464000"
 		}
 	],
 	"vaccination-locations": [
 		{
-			"name": null,
-			"phone": null,
-			"address": null,
-			"latitude": null,
-			"longitude": null
+			"name": "CVS Pharmacy",
+			"phone": "(925) 373-8124",
+			"address": "4536 Las Positas Rd, Livermore, CA 94551",
+			"latitude": "37.696752000",
+			"longitude": "-121.742742000"
+		},
+		{
+			"name": "Walgreens Pharmacy",
+			"phone": "(925) 724-0131",
+			"address": "1620 1st St, Livermore, CA 94550",
+			"latitude": "37.679777000",
+			"longitude": "-121.775947000"
+		},
+		{
+			"name": "CVS Pharmacy",
+			"phone": "(925) 455-5580",
+			"address": "Railroad Ave, Livermore, CA 94550",
+			"latitude": "37.680170000",
+			"longitude": "-121.778172000"
+		},
+		{
+			"name": "Rite Aid Pharmacy",
+			"phone": "(925) 373-0455",
+			"address": "992 Murrieta Blvd, Livermore, CA 94550",
+			"latitude": "37.677093000",
+			"longitude": "-121.784983000"
+		},
+		{
+			"name": "CVS Pharmacy",
+			"phone": "(925) 241-1043",
+			"address": "I-580 W, Pleasanton, CA 94568",
+			"latitude": "37.702950000",
+			"longitude": "-121.853586000"
+		},
+		{
+			"name": "Walgreens Pharmacy",
+			"phone": "(925) 426-1562",
+			"address": "Valley Ave, Pleasanton, CA 94566",
+			"latitude": "37.675939000",
+			"longitude": "-121.875093000"
+		},
+		{
+			"name": "Stanford Health Care - ValleyCare Medical Center",
+			"phone": "(925) 847-3000",
+			"address": "3460 Andrews Dr, Pleasanton, CA 94588",
+			"latitude": "37.694036800",
+			"longitude": "-121.881122700"
+		},
+		{
+			"name": "Rite Aid Pharmacy",
+			"phone": "(925) 846-8345",
+			"address": "Valley Ave, Pleasanton, CA 94566"
+			"latitude": "37.675991000",
+			"longitude": "-121.894792000"
+		},
+		{
+			"name": "CVS Pharmacy",
+			"phone": "(925) 249-9011",
+			"address": "Dupont Dr, Pleasanton, CA 94566"
+			"latitude": "37.656578000",
+			"longitude": "-121.897913000"
+		},
+		{
+			"name": "CVS Pharmacy",
+			"phone": "(925) 241-0000",
+			"address": "7600 Amador Valley Blvd, Dublin, CA 94568"
+			"latitude": "37.706669000",
+			"longitude": "-121.932038000"
 		}
 	]
 }
