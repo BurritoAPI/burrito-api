@@ -6,7 +6,7 @@
 			"address": null
 			"latitude": null
 			"longitude": null
-		],
+		]
 	},
 	"vaccination-locations": {
 		[
@@ -15,6 +15,6 @@
 			"address": null
 			"latitude": null
 			"longitude": null
-		],
+		]
 	}
 }
