@@ -1084,6 +1084,76 @@
 			"address": "1298 Hooksett Rd, Hooksett, NH 03106",
 			"latitude": "43.052277000",
 			"longitude": "-71.439161000"
+		},
+		{
+			"name": "Hackensack Meridian Urgent Care - Toms River",
+			"phone": "((732) 818-0004",
+			"address": " 9 Mule Rd, Toms River, NJ 08755",
+			"latitude": "39.971636000",
+			"longitude": "-74.239349000"
+		},
+		{
+			"name": "AtlantiCare Urgent Care Galloway",
+			"phone": "(609) 748-2100",
+			"address": "110 E Jimmie Leeds Rd, Galloway, NJ 08205",
+			"latitude": "39.472147000",
+			"longitude": "-74.515553000"
+		},
+		{
+			"name": "Atlantic County VA Clinic",
+			"phone": "(800) 461-8262",
+			"address": "1909 New Rd, Northfield, NJ 08225",
+			"latitude": "39.368723800",
+			"longitude": "-74.561676000"
+		},
+		{
+			"name": "Mt Zion Baptist Church",
+			"phone": "(856) 935-4131",
+			"address": "437 Grieves Pkwy, Salem, NJ 08079",
+			"latitude": "39.559553000",
+			"longitude": "-75.461163000"
+		},
+		{
+			"name": "Spread Med",
+			"phone": "(207) 929-0576",
+			"address": "15 Poplar St S, Glassboro, NJ 08028",
+			"latitude": "39.702322300",
+			"longitude": "-75.113447200"
+		},
+		{
+			"name": "Lewis County Health Department",
+			"phone": "(931) 796-2204",
+			"address": "51 Smith Ave, Hohenwald, TN 38462",
+			"latitude": "35.551223700",
+			"longitude": "-87.552416300"
+		},
+		{
+			"name": "Dannie A. Carr Veterans Outpatient Clinic",
+			"phone": "(865) 286-6950",
+			"address": "1124 Blanton Dr Suite 100, Sevierville, TN 37862",
+			"latitude": "35.854468000",
+			"longitude": "-83.539321200"
+		},
+		{
+			"name": "Surgoinsville Pharmacy and Clinic",
+			"phone": "(423) 345-0333",
+			"address": "114 Bellamy Ave, Surgoinsville, TN 37873",
+			"latitude": "36.468720000",
+			"longitude": "-82.853485000"
+		},
+		{
+			"name": "COVID-19 Drive-thru Testing at Walgreens",
+			"phone": "(800) 925-4733",
+			"address": "1405 S Highland Ave, Jackson, TN 38301",
+			"latitude": "35.575252000",
+			"longitude": "-88.815484000"
+		},
+		{
+			"name": "45 Urgent Care, PC",
+			"phone": "(731) 554-0571",
+			"address": "147 N Star Dr, Jackson, TN 38305",
+			"latitude": "35.700904000",
+			"longitude": "-88.854596000"
 		}
 	],
 	"vaccination-locations": [
