@@ -1,0 +1,20 @@
+{
+	"testing-locations": {
+		[
+			"name": null
+			"phone": null
+			"address": null
+			"latitude": null
+			"longitude": null
+		],
+	},
+	"vaccination-locations": {
+		[
+			"name": null
+			"phone": null
+			"address": null
+			"latitude": null
+			"longitude": null
+		],
+	}
+}
