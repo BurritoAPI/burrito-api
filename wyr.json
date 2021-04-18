@@ -143,8 +143,8 @@
 			"blue_stat": "27%",
 			"red": "See who you will marry",
 			"red_stat": "73%",
-			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833186670873935893/452727e1a7bded5ea06c628e3e1048b3.png",
-                        "red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833186805062959104/wedding-wedding-rings-rings-marry-thumb.png"
+			"blue_img": "https://64.media.tumblr.com/08233dca5eb849e4102b97533f207899/7fc46cf8dd351cc0-13/s540x810/d1c92380c11e0a13d09e0f8ffa2c8fe579d6f3c8.jpg",
+                        "red_img": "https://i.pinimg.com/originals/82/02/ef/8202ef9ce5f656eed2d8554153ded1be.jpg"
 		},
 		{
 			"blue": "Be telepathic",
@@ -167,6 +167,8 @@
 			"blue_stat": "44%",
 			"red": "Live forever and be ignorant",
 			"red_stat": "56%"
+			"blue_img": "https://i.pinimg.com/564x/8a/73/c6/8a73c622dea81d75662c8bf68a0296d9.jpg",
+                        "red_img": "https://i.pinimg.com/originals/1a/17/a7/1a17a70787cd5fa9410abab1db8ef3c1.jpg"
 		},
 		{
 			"blue": "Play a game of Quidditch",
@@ -181,6 +183,8 @@
 			"blue_stat": "45%",
 			"red": "Be one of King Arthur's Knights of the Round Table",
 			"red_stat": "55%"
+			"blue_img": "https://i.pinimg.com/originals/ae/13/91/ae13911ebf811e70a8e2d1b9401c9351.jpg",
+                        "red_img": "http://pm1.narvii.com/6506/3d628716bd3aaed3f5804cc73cfc626c70f84334_00.jpg"
 		},
 		{
 			"blue": "Have an Android device",
@@ -195,6 +199,8 @@
 			"blue_stat": "66%",
 			"red": "Bring a past pet back to life",
 			"red_stat": "34%"
+			"blue_img": "https://i.pinimg.com/736x/ea/5a/1e/ea5a1eb7d9f1bca19e6a3280780a240f.jpg",
+                        "red_img": "https://data.whicdn.com/images/323508673/original.jpg"
 		}
 	]
 }
