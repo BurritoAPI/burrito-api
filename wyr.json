@@ -166,7 +166,7 @@
 			"blue": "Know everything and die tomorrow",
 			"blue_stat": "44%",
 			"red": "Live forever and be ignorant",
-			"red_stat": "56%"
+			"red_stat": "56%",
 			"blue_img": "https://i.pinimg.com/564x/8a/73/c6/8a73c622dea81d75662c8bf68a0296d9.jpg",
                         "red_img": "https://i.pinimg.com/originals/1a/17/a7/1a17a70787cd5fa9410abab1db8ef3c1.jpg"
 		},
@@ -174,7 +174,7 @@
 			"blue": "Play a game of Quidditch",
 			"blue_stat": "53%",
 			"red": "Take a field trip with Ms. Frizzle",
-			"red_stat": "47%"
+			"red_stat": "47%",
 			"blue_img": "https://i.pinimg.com/originals/55/b9/0c/55b90c2bb27bc6cbce1533c9c03b7f2f.jpg",
                         "red_img": "https://64.media.tumblr.com/12bce19d49c65e19f830b3d3be966f61/tumblr_inline_pd754cBOzD1qdj32x_1280.png"
 		},
@@ -182,7 +182,7 @@
 			"blue": "Be one of Robin Hood's Merry Men",
 			"blue_stat": "45%",
 			"red": "Be one of King Arthur's Knights of the Round Table",
-			"red_stat": "55%"
+			"red_stat": "55%",
 			"blue_img": "https://i.pinimg.com/originals/ae/13/91/ae13911ebf811e70a8e2d1b9401c9351.jpg",
                         "red_img": "http://pm1.narvii.com/6506/3d628716bd3aaed3f5804cc73cfc626c70f84334_00.jpg"
 		},
@@ -190,7 +190,7 @@
 			"blue": "Have an Android device",
 			"blue_stat": "42%",
 			"red": "Have an iPhone",
-			"red_stat": "58%"
+			"red_stat": "58%",
 			"blue_img": "https://64.media.tumblr.com/7dcba1f064b047397229d05f4e369cbb/df96cd78770b7dbe-59/s640x960/f693541a30ae0f6dd89523ad598cd8df8799ee16.jpg",
                         "red_img": "https://64.media.tumblr.com/86e40b1824279ee733859b0c1c8b3824/6c8e041d901836aa-da/s640x960/79c6345a2e0eecd332f1c4786fcc2774276e5983.jpg"
 		},
@@ -198,7 +198,7 @@
 			"blue": "Have your current pet live as long as you do",
 			"blue_stat": "66%",
 			"red": "Bring a past pet back to life",
-			"red_stat": "34%"
+			"red_stat": "34%",
 			"blue_img": "https://i.pinimg.com/736x/ea/5a/1e/ea5a1eb7d9f1bca19e6a3280780a240f.jpg",
                         "red_img": "https://data.whicdn.com/images/323508673/original.jpg"
 		}
