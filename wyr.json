@@ -5,8 +5,8 @@
 			"blue_stat": "23%",
 			"red": "Master every spoken language",
 			"red_stat": "77%",
-			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833179288647893042/photo-1542831371-29b0f74f9713.png",
-			"red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833179750385713202/language_learning_moocs.png"
+			"blue_img": "https://i.pinimg.com/736x/1e/aa/c3/1eaac3e5de20105df3031ece1992172b.jpg",
+			"red_img": "https://data.whicdn.com/images/345607829/original.jpg?t=1592721662"
 			
 		},
 		{
@@ -64,7 +64,7 @@
 			"red": "Know many people and see them every day, but not be particularly close with any",
 			"red_stat": "36%",
 			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833182257241784351/a0f7af3233fbfd5d2c1ac49ae098b038.png",
-                        "red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833182509234651136/2Q.png"
+                        "red_img": "https://i.pinimg.com/originals/77/99/49/779949caffb9dc4c38c73727af8c7982.jpg"
 		},
 		{
 			"blue": "Always be cold",
@@ -96,7 +96,7 @@
 			"red": "Be able to replicate one thing per day that disappears after 24 hours",
 			"red_stat": "24%",
 			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833183344576561162/ac14e859eef0e08903dd09a79792d99043a7518f_hq.png",
-                        "red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833183516824567828/Best-Vintage-Pocket-Watches.png"
+                        "red_img": "https://i.pinimg.com/originals/33/bb/d7/33bbd78cee5dc1fca8b1181e7f81090f.jpg"
 		},
 		{
 			"blue": "Discover something evil and prevent it",
@@ -111,8 +111,8 @@
 			"blue_stat": "42%",
 			"red": "Play real-life Mario Kart",
 			"red_stat": "58%",
-			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833184781536591872/images.png",
-                        "red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833184808401240084/Z.png"
+			"blue_img": "https://i.redd.it/fn5uifg32fr41.png",
+                        "red_img": "https://cdn140.picsart.com/302242739206201.jpg"
 		},
 		{
 			"blue": "Never loved at all",
@@ -120,7 +120,7 @@
 			"red": "Have loved and lost",
 			"red_stat": "72%",
 			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833184840693710868/769fbb064e53f6043941171d73f953e13ea53ba0.png",
-                        "red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833185120441073694/original.png"
+                        "red_img": "https://i.pinimg.com/736x/10/40/75/10407529970e1bdeb9406c9c062c4b21.jpg"
 		},
 		{
 			"blue": "Control your dreams",
@@ -159,8 +159,8 @@
 			"blue_stat": "63%",
 			"red": "Have no family",
 			"red_stat": "37%",
-			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833187851465785354/8.png",
-                        "red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833187897619513414/1480783597_image.png"
+			"blue_img": "https://i.pinimg.com/564x/c2/96/e8/c296e8a9b29d6528f37aaf40bfd3d11c.jpg",
+                        "red_img": "https://i.pinimg.com/474x/5d/fd/0c/5dfd0c1a049b7c6127c00151d1881b6e.jpg"
 		},
 		{
 			"blue": "Know everything and die tomorrow",
@@ -173,6 +173,8 @@
 			"blue_stat": "53%",
 			"red": "Take a field trip with Ms. Frizzle",
 			"red_stat": "47%"
+			"blue_img": "https://i.pinimg.com/originals/55/b9/0c/55b90c2bb27bc6cbce1533c9c03b7f2f.jpg",
+                        "red_img": "https://64.media.tumblr.com/12bce19d49c65e19f830b3d3be966f61/tumblr_inline_pd754cBOzD1qdj32x_1280.png"
 		},
 		{
 			"blue": "Be one of Robin Hood's Merry Men",
@@ -185,6 +187,8 @@
 			"blue_stat": "42%",
 			"red": "Have an iPhone",
 			"red_stat": "58%"
+			"blue_img": "https://64.media.tumblr.com/7dcba1f064b047397229d05f4e369cbb/df96cd78770b7dbe-59/s640x960/f693541a30ae0f6dd89523ad598cd8df8799ee16.jpg",
+                        "red_img": "https://64.media.tumblr.com/86e40b1824279ee733859b0c1c8b3824/6c8e041d901836aa-da/s640x960/79c6345a2e0eecd332f1c4786fcc2774276e5983.jpg"
 		},
 		{
 			"blue": "Have your current pet live as long as you do",
