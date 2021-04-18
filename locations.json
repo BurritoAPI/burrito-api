@@ -963,8 +963,8 @@
 			"name": "Lewistown VA Clinic",
 			"phone": "(406) 535-4790",
 			"address": "629 E Main St #1, Lewistown, MT 59457",
-			"latitude": "-109.421776700",
-			"longitude": "47.067231700"
+			"latitude": "47.067231700",
+			"longitude": "-109.421776700"
 		},
 		{
 			"name": "Great Falls VA Clinic",

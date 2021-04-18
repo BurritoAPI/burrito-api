@@ -1,0 +1,154 @@
+{
+	"choices":[
+		{
+			"blue": "Master every programming language",
+			"blue_stat": "23%",
+			"red": "Master every spoken language",
+			"red_stat": "77%"
+		},
+		{
+			"blue": "Communicate with animals",
+			"blue_stat": "45%",
+			"red": "Speak every language fluently",
+			"red_stat": "55%"
+		},
+		{
+			"blue": "Control the emotions of those around you",
+			"blue_stat": "52%",
+			"red": "Control the weather",
+			"red_stat": "48%%"
+		},
+		{
+			"blue": "Never be able touch anyone again",
+			"blue_stat": "56%",
+			"red": "Never be able talk to anyone again",
+			"red_stat": "44%"
+		},
+		{
+			"blue": "Drive a moped on tight rope",
+			"blue_stat": "33%",
+			"red": "Go over niagara falls in a barrel",
+			"red_stat": "67%"
+		},
+		{
+			"blue": "Lose your cell phone",
+			"blue_stat": "33%",
+			"red": "Lose your keys",
+			"red_stat": "67%"
+		},
+		{
+			"blue": "Be Emo",
+			"blue_stat": "45%",
+			"red": "Be Gothic",
+			"red_stat": "55%"
+		},
+		{
+			"blue": "Be close with only one person, and only see them on Sundays",
+			"blue_stat": "64%",
+			"red": "Know many people and see them every day, but not be particularly close with any",
+			"red_stat": "36%"
+		},
+		{
+			"blue": "Always be cold",
+			"blue_stat": "57%",
+			"red": "Always be hot",
+			"red_stat": "43%"
+		},
+		{
+			"blue": "Go down in history for something terrible",
+			"blue_stat": "32%",
+			"red": "Live an average life and be forgotten in time",
+			"red_stat": "68%"
+		},
+		{
+			"blue": "Only read romance novels",
+			"blue_stat": "48%",
+			"red": "Only read textbooks",
+			"red_stat": "52%"
+		},
+		{
+			"blue": "Be able to freeze time for one hour every 24 hours",
+			"blue_stat": "76%",
+			"red": "Be able to replicate one thing per day that disappears after 24 hours",
+			"red_stat": "24%"
+		},
+		{
+			"blue": "Discover something evil and prevent it",
+			"blue_stat": "44%",
+			"red": "Discover something great and spread it",
+			"red_stat": "56%"
+		},
+		{
+			"blue": "Play real-life Minecraft",
+			"blue_stat": "42%",
+			"red": "Play real-life Mario Kart",
+			"red_stat": "58%"
+		},
+		{
+			"blue": "Never loved at all",
+			"blue_stat": "28%",
+			"red": "Have loved and lost",
+			"red_stat": "72%"
+		},
+		{
+			"blue": "Control your sreams",
+			"blue_stat": "59%",
+			"red": "Watch them the next day",
+			"red_stat": "41%"
+		},
+		{
+			"blue": "Listen to the Macerena for four hours straight",
+			"blue_stat": "46%",
+			"red": "Listen to Mambo No. 5 for four hours straight",
+			"red_stat": "54%"
+		},
+		{
+			"blue": "See how you die",
+			"blue_stat": "27%",
+			"red": "See who you will marry",
+			"red_stat": "73%"
+		},
+		{
+			"blue": "Be telepathic",
+			"blue_stat": "45%",
+			"red": "Be telekinetic",
+			"red_stat": "54%"
+		},
+		{
+			"blue": "Have no friends",
+			"blue_stat": "63%",
+			"red": "Have no family",
+			"red_stat": "37%"
+		},
+		{
+			"blue": "Know everything and die tomorrow",
+			"blue_stat": "44%",
+			"red": "Live forever and be ignorant",
+			"red_stat": "56%"
+		},
+		{
+			"blue": "Play a game of Quidditch",
+			"blue_stat": "53%",
+			"red": "Take a field trip with Ms. Frizzle",
+			"red_stat": "47%"
+		},
+		{
+			"blue": "Be one of Robin Hood's Merry Men",
+			"blue_stat": "45%",
+			"red": "Be one of King Artthur's Knights of the Round Table",
+			"red_stat": "55%"
+		},
+		{
+			"blue": "Have an Android device",
+			"blue_stat": "42%",
+			"red": "Have an iPhone",
+			"red_stat": "58%"
+		},
+		{
+			"blue": "Have your current pet live as long as you do",
+			"blue_stat": "66%",
+			"red": "Bring a past pet back to life",
+			"red_stat": "34%"
+		}
+	}
+}
