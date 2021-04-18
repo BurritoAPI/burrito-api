@@ -4,121 +4,163 @@
 			"blue": "Master every programming language",
 			"blue_stat": "23%",
 			"red": "Master every spoken language",
-			"red_stat": "77%"
+			"red_stat": "77%",
+			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833179288647893042/photo-1542831371-29b0f74f9713.png",
+			"red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833179750385713202/language_learning_moocs.png"
+			
 		},
 		{
 			"blue": "Communicate with animals",
 			"blue_stat": "45%",
 			"red": "Speak every language fluently",
-			"red_stat": "55%"
+			"red_stat": "55%",
+			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833180343040737300/3f2f03c734ebac24a553a1dc8aaf0a8d.png",
+			"red_img": "https://media.discordapp.net/attachments/805945769295216681/833179750385713202/language_learning_moocs.png"
 		},
 		{
 			"blue": "Control the emotions of those around you",
 			"blue_stat": "52%",
 			"red": "Control the weather",
-			"red_stat": "48%%"
+			"red_stat": "48%",
+			"blue_img": "https://cdn.discordapp.com/attachments/805945769295216681/833180715763630080/tumblr_op3krazBnE1valq9yo1_1280.png",
+			"red_img": "https://cdn.discordapp.com/attachments/805945769295216681/833180800019202078/photo-1558899381-fccf8f068de9.png"
+			
 		},
 		{
 			"blue": "Never be able touch anyone again",
 			"blue_stat": "56%",
 			"red": "Never be able talk to anyone again",
-			"red_stat": "44%"
+			"red_stat": "44%",
+			"blue-img": "https://s11.favim.com/orig/7/758/7587/75874/touch-hands-aesthetic-Favim.com-7587490.jpg",
+			"red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833181180165488640/cea09a40915c5ceeb8736dc5e2d7615d.png"
 		},
 		{
 			"blue": "Drive a moped on tight rope",
 			"blue_stat": "33%",
 			"red": "Go over niagara falls in a barrel",
-			"red_stat": "67%"
+			"red_stat": "67%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833181284590419968/e19cd6417588eb3665763ef14d8042ee.png",
+           		"red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833181380761485342/70002d445274c676ca560f17e761bacf.png"
 		},
 		{
 			"blue": "Lose your cell phone",
 			"blue_stat": "33%",
 			"red": "Lose your keys",
-			"red_stat": "67%"
+			"red_stat": "67%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833181508432953374/549a3daa6d0aa3f7f1e7bd6204ca9138.png",
+                   	"red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833181665144602635/1200b2318c0e1bdea29c017b5a083813.png"
 		},
 		{
 			"blue": "Be Emo",
 			"blue_stat": "45%",
 			"red": "Be Gothic",
-			"red_stat": "55%"
+			"red_stat": "55%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182095358296084/3c2b401f9017cbe0a0e289f37150f1f5.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182182221545492/0d6a5aa7f5ee5b0a74e822008d4b2e64.png"
 		},
 		{
 			"blue": "Be close with only one person, and only see them on Sundays",
 			"blue_stat": "64%",
 			"red": "Know many people and see them every day, but not be particularly close with any",
-			"red_stat": "36%"
+			"red_stat": "36%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182257241784351/a0f7af3233fbfd5d2c1ac49ae098b038.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182509234651136/2Q.png"
 		},
 		{
 			"blue": "Always be cold",
 			"blue_stat": "57%",
 			"red": "Always be hot",
-			"red_stat": "43%"
+			"red_stat": "43%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182717805854741/vsi9pt4xrqb21.png",
+                       	"red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182861909164042/Z.png"
 		},
 		{
 			"blue": "Go down in history for something terrible",
 			"blue_stat": "32%",
 			"red": "Live an average life and be forgotten in time",
-			"red_stat": "68%"
+			"red_stat": "68%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833182935472799744/original.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183002007306250/tumblr_oy7q1vNAk41wdclwpo1_500.png"
 		},
 		{
 			"blue": "Only read romance novels",
 			"blue_stat": "48%",
 			"red": "Only read textbooks",
-			"red_stat": "52%"
+			"red_stat": "52%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183182307721256/f2afc4ecee4100a4a1fe8f37db54a201.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183273176924190/9b3342ee4de416e533a5de91d388feb3.png"
 		},
 		{
 			"blue": "Be able to freeze time for one hour every 24 hours",
 			"blue_stat": "76%",
 			"red": "Be able to replicate one thing per day that disappears after 24 hours",
-			"red_stat": "24%"
+			"red_stat": "24%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183344576561162/ac14e859eef0e08903dd09a79792d99043a7518f_hq.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183516824567828/Best-Vintage-Pocket-Watches.png"
 		},
 		{
 			"blue": "Discover something evil and prevent it",
 			"blue_stat": "44%",
 			"red": "Discover something great and spread it",
-			"red_stat": "56%"
+			"red_stat": "56%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183640119934996/e1f621214dde827ed590209bf1f9fe4a.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833183779806904340/8eddab17d9d3690e9f804d3b594bf787.png"
 		},
 		{
 			"blue": "Play real-life Minecraft",
 			"blue_stat": "42%",
 			"red": "Play real-life Mario Kart",
-			"red_stat": "58%"
+			"red_stat": "58%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833184781536591872/images.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833184808401240084/Z.png"
 		},
 		{
 			"blue": "Never loved at all",
 			"blue_stat": "28%",
 			"red": "Have loved and lost",
-			"red_stat": "72%"
+			"red_stat": "72%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833184840693710868/769fbb064e53f6043941171d73f953e13ea53ba0.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833185120441073694/original.png"
 		},
 		{
 			"blue": "Control your dreams",
 			"blue_stat": "59%",
 			"red": "Watch them the next day",
-			"red_stat": "41%"
+			"red_stat": "41%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833185605298159636/original.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833186096279846922/a06c887f04dbe20a247533a7f50388b3.png"
 		},
 		{
 			"blue": "Listen to the Macerena for four hours straight",
 			"blue_stat": "46%",
 			"red": "Listen to Mambo No. 5 for four hours straight",
-			"red_stat": "54%"
+			"red_stat": "54%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833186176801964032/original.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833186501667192843/black-wallpaper-201219141559151600x1200.png"
 		},
 		{
 			"blue": "See how you die",
 			"blue_stat": "27%",
 			"red": "See who you will marry",
-			"red_stat": "73%"
+			"red_stat": "73%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833186670873935893/452727e1a7bded5ea06c628e3e1048b3.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833186805062959104/wedding-wedding-rings-rings-marry-thumb.png"
 		},
 		{
 			"blue": "Be telepathic",
 			"blue_stat": "45%",
 			"red": "Be telekinetic",
-			"red_stat": "54%"
+			"red_stat": "54%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833186929095868426/219f77d0a3c137030c9b53911963476b.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833187125343682600/b8116a6c322753b06a486eba215a2b61.png"
 		},
 		{
 			"blue": "Have no friends",
 			"blue_stat": "63%",
 			"red": "Have no family",
-			"red_stat": "37%"
+			"red_stat": "37%",
+			"blue-img": "https://cdn.discordapp.com/attachments/805945769295216681/833187851465785354/8.png",
+                        "red-img": "https://cdn.discordapp.com/attachments/805945769295216681/833187897619513414/1480783597_image.png"
 		},
 		{
 			"blue": "Know everything and die tomorrow",
